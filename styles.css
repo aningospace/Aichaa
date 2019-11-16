@@ -19,7 +19,6 @@ list-style:none;
 #contenu{
 margin: 0 auto;
 width:50%;
-min-width: 400px;
 min-height: 1px;
 background:#eaeaea;
 }
