@@ -6,13 +6,7 @@ width:100%;
 text-align: center;
 }
 
-section{
-    background: #fff;
-    width: 80%;
-    height: auto;
-    margin: 20px auto;
-    padding: 15px 0 15px 0;
-}
+
 
 h1,h2{
     text-decoration: underline;
@@ -25,7 +19,7 @@ list-style:none;
 #contenu{
 margin: 0 auto;
 width:50%;
-min-height: 100%;
+min-height: 1px;
 background:#eaeaea;
 }
 
